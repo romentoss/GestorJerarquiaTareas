@@ -4,6 +4,8 @@ Se trata de un programa web, de gestión total de tareas en el cual existe una j
 
 # Pasos
 Implementar la base de datos con el json correspondiente en las dos tablas de tecnicos y tareas que se adjuntan en el proyecto.
+Usar npm i para instalar dependencias de node y angular que proceden de la configuración del archivo json. 
 Iniciar un servidor nodeJS con npm start, ("scripts": {"start": "nodemon server"}) incorporar en json de configuración del servidor node.
 En otra consola iniciar angular con npm start, ("scripts": {"start": "ng serve --open",}) incorporar en json de configuración del cliente angular. 
+
 
